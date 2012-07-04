@@ -1,0 +1,63 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		".tags*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.pdf"
+	],
+	"folder_exclude_patterns":
+	[
+		"data",
+		".git",
+		".svn",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".bundle",
+		".rbx",
+		"bin",
+		"script",
+		"tmp",
+		"log",
+		".vendor"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"antialias"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"overlay_scroll_bars": "enabled",
+	"scroll_speed": 0,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}

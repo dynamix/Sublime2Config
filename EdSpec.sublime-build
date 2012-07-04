@@ -1,0 +1,5 @@
+{
+	"cmd": ["cd .. && bundle exec spec $file"],
+	"shell": true,
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)"
+}

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[Time.now.to_f]]></content>
+	<tabTrigger>tn</tabTrigger>
+	<scope>source.ruby</scope>
+</snippet>

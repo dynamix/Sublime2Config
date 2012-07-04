@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": 1341403311,
+	"installed_packages":
+	[
+		"Abacus",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Cellar",
+		"CTags",
+		"DetectSyntax",
+		"Git",
+		"Guard",
+		"JsFormat",
+		"MarkAndMove",
+		"Modific",
+		"Open-Include",
+		"Package Control",
+		"Pretty JSON",
+		"RSpec",
+		"rsub",
+		"RubyTest",
+		"Sublime-HTMLPrettify",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"TrailingSpaces"
+	]
+}

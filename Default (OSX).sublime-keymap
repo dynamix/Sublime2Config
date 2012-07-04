@@ -1,0 +1,23 @@
+[
+    { "keys": ["super+k", "super+a"], "command": "abacus" },
+    { "keys": ["super+shift+h"], "command": "htmlprettify" },
+    { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" },
+    { "keys": ["alt+d"], "command": "open_include" },
+  	{ "keys": ["ctrl++"], "command": "indent" },
+	{ "keys": ["ctrl+ü"], "command": "unindent" },
+    { "keys": ["super+k", "super+f"], "command": "fold" },
+    { "keys": ["super+k", "super+u"], "command": "unfold" },
+    { "keys": ["alt+space"], "command": "auto_complete" },
+    { "keys": ["super+shift+r"], "command": "run_specs" },
+    { "keys": ["super+^"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+
+
+ //,
+    // { "keys": ["ctrl+shift+tab"], "command": "mark_and_move_window_select" },
+    // { "keys": ["ctrl+tab"], "command": "mark_and_move_window_toggle" },
+    // { "keys": ["ctrl+m"], "command": "mark_and_move_do_it_all" },
+    // { "keys": ["alt+m"], "command": "mark_and_move_next" },
+    // { "keys": ["alt+shift+m"], "command": "mark_and_move_prev" },
+    // { "keys": ["ctrl+shift+m"], "command": "mark_and_move_recall" },
+    // { "keys": ["ctrl+alt+m"], "command": "mark_and_move_clear" }
+]
